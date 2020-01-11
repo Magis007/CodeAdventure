@@ -64,7 +64,7 @@ class agents{
 
     void pop(){
         descricao(identidade.rnome(), "Um buraco abriu da palma de sua mao e de la saiu um objeto em alta velocidade");
-        cout<<memoria.back().name<<" foi lançado.";
+        cout<<memoria.back().name<<" foi lancado.";
         memoria.pop_back();
     }
 };
